@@ -1,0 +1,6 @@
+{
+  "name": "SecureJIT - Azure Privileged Identity Management",
+  "description": "Just-In-Time Privileged Access Management with risk evaluation, approval workflows, active countdown timers, emergency access, and comprehensive audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
